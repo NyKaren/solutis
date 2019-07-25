@@ -12,14 +12,6 @@ public class Agenda {
         contatos = new Contato[1];
     }
 
-    public Contato[] getContatos() {
-        return this.contatos; //coloquei .this
-    }
-
-    public void setContatos(Contato[] contatos) {
-        this.contatos = contatos;
-    }
-
     public void adicionaContato(Contato contato) throws Exception {
         //adiciona novo contato em posição vazia do vetor
         try {
@@ -30,7 +22,7 @@ public class Agenda {
             this.contatos = novaArray;
             getContatos()[this.totalDeContatos] = contato;
             this.totalDeContatos++;
-            System.out.println('Contato adicionado com sucesso. ');
+            System.out.println("Contato adicionado com sucesso. ");
         } catch (Exception e) {
             throw new Exception("Erro ao tentar adicionar um contato -> "+e.getMessage());
         }
@@ -51,17 +43,23 @@ public class Agenda {
         }
     }
 
-    /*public void excluiContato(String nome) {
+    public void excluiContato(String nome) throws Exception {
         //exclui contato através do nome
         try {
             Contato excluido = buscaContato(nome);
-            setContatos(excluido)= null;
-            for (int i = posicao; i < this.totalDeObjetos - 1; i++) {
-                this.objetos[i] = this.objetos[i + 1];
-            }
-            this.totalDeContatos--;
+            excluido.setNome(null);
+            excluido.setEmail(null);
+            System.out.println("Contato excluído com sucesso. ");
         } catch (Exception e) {
             throw new Exception("Erro ao excluir contato -> "+e.getMessage());
         }
-    }*/
+    }
+
+    public Contato[] getContatos() {
+        return this.contatos; //coloquei .this
+    }
+
+    public void setContatos(Contato[] contatos) {
+        this.contatos = contatos;
+    }
 }

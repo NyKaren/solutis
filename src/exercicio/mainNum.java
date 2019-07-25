@@ -21,6 +21,8 @@ public class mainNum {
 			contato1.setEmail("teste@teste,com.br");
 			agenda.adicionaContato(contato1);
 			agenda.buscaContato("Samanta");
+			agenda.excluiContato("Samanta");
+			agenda.buscaContato("Samanta");
 
 		}catch (Exception e) {
 			e.printStackTrace();
