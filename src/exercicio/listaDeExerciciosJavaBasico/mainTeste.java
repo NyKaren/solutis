@@ -12,6 +12,10 @@ public class mainTeste {
             Saldo saldo = new Saldo();
             saldo.reajuste(100);
 
+            ValorAPagar valorAPagar = new ValorAPagar();
+            valorAPagar.calculaValorTotal(1,2,3,4,
+                    5,6,7);
+
         }catch (Exception e) {
             e.printStackTrace();
         }
