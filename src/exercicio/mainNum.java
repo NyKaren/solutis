@@ -22,7 +22,12 @@ public class mainNum {
 			agenda.adicionaContato(contato1);
 			agenda.buscaContato("Samanta");
 			agenda.excluiContato("Samanta");
-			agenda.buscaContato("Samanta");
+			//agenda.buscaContato("Samanta");
+
+			MediaAluno mediaAluno = new MediaAluno();
+			mediaAluno.adiciona(1);
+			mediaAluno.adiciona(12);
+			mediaAluno.calculaMedia();
 
 		}catch (Exception e) {
 			e.printStackTrace();

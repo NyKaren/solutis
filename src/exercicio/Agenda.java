@@ -1,21 +1,13 @@
 package exercicio;
-import exercicio.Contato;
-
-import java.util.List;
-import java.util.Vector;
 
 public class Agenda {
     private Contato[] contatos;
     private int totalDeContatos = 0;
 
-    public Agenda(){
-        contatos = new Contato[1];
-    }
-
     public void adicionaContato(Contato contato) throws Exception {
         //adiciona novo contato em posição vazia do vetor
         try {
-            Contato[] novaArray = new Contato[this.contatos.length * 2];
+            Contato[] novaArray = new Contato[this.contatos.length +1];
             for (int i = 0; i < this.contatos.length; i++) {
                 novaArray[i] = this.contatos[i];
             }
@@ -55,11 +47,23 @@ public class Agenda {
         }
     }
 
+    public Agenda(){
+        contatos = new Contato[1];
+    }
+
     public Contato[] getContatos() {
         return this.contatos; //coloquei .this
     }
 
     public void setContatos(Contato[] contatos) {
         this.contatos = contatos;
+    }
+
+    public int getTotalDeContatos() {
+        return totalDeContatos;
+    }
+
+    public void setTotalDeContatos(int totalDeContatos) {
+        this.totalDeContatos = totalDeContatos;
     }
 }
