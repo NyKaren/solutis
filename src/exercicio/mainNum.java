@@ -15,15 +15,25 @@ public class mainNum {
 			ComparaNumero comparaNumero = new ComparaNumero();
 			comparaNumero.comparaNumero(5, 3);
 
+			//Teste de agenda
 			Agenda agenda = new Agenda();
+
 			Contato contato1 = new Contato();
 			contato1.setNome("Samanta");
 			contato1.setEmail("teste@teste,com.br");
 			agenda.adicionaContato(contato1);
-			agenda.buscaContato("Samanta");
-			agenda.excluiContato("Samanta");
-			//agenda.buscaContato("Samanta");
 
+			Contato contato2 = new Contato();
+			contato2.setNome("Dinda");
+			contato2.setEmail("testedinda@teste,com.br");
+			agenda.adicionaContato(contato2);
+
+			agenda.buscaContato("Samanta");
+			agenda.buscaContato("Dinda");
+			agenda.excluiContato("Dinda");
+			agenda.buscaContato("Samanta");
+
+			//Testa média aluno
 			MediaAluno mediaAluno = new MediaAluno();
 			mediaAluno.adiciona(1);
 			mediaAluno.adiciona(12);

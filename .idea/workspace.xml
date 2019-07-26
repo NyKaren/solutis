@@ -3,11 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="78599980-6745-4974-b69c-0fbbd84696e7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solutis12/exercicio/Agenda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/solutis12/exercicio/Agenda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solutis12/exercicio/MediaAluno.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/solutis12/exercicio/mainNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/solutis12/exercicio/mainNum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio/Agenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio/Agenda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio/MediaAluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio/MediaAluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio/AcoesDeZeroATrinta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio/AcoesDeZeroATrinta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio/ComparaNumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio/ComparaNumero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio/MaiorNumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio/MaiorNumero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio/NumeroDecrescente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio/NumeroDecrescente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio/TrocaNumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio/TrocaNumero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/exercicio/mainNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio/mainNum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,42 +27,36 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/exercicio/mainNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/exercicio/Agenda.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#1880#1881#0" expanded="true" />
-                <element signature="e#1921#1922#0" expanded="true" />
-                <element signature="e#1962#1963#0" expanded="true" />
-                <element signature="e#2053#2054#0" expanded="true" />
-                <element signature="e#2130#2131#0" expanded="true" />
-                <element signature="e#2243#2244#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/exercicio/MediaAluno.java">
+        <entry file="file://$PROJECT_DIR$/src/exercicio/MaiorNumero.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="42" column="37" lean-forward="true" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+            <state relative-caret-position="162">
+              <caret line="11" column="61" lean-forward="true" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
               <folding>
-                <element signature="e#602#603#0" expanded="true" />
-                <element signature="e#626#627#0" expanded="true" />
-                <element signature="e#1756#1757#0" expanded="true" />
-                <element signature="e#1819#1820#0" expanded="true" />
-                <element signature="e#1883#1884#0" expanded="true" />
-                <element signature="e#1972#1973#0" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#424#425#0" expanded="true" />
+                <element signature="e#468#469#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#550#551#0" expanded="true" />
+                <element signature="e#594#595#0" expanded="true" />
+                <element signature="e#623#624#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/exercicio/ComparaNumero.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -87,9 +82,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/exercicio/Contato.java" />
-        <option value="$PROJECT_DIR$/src/exercicio/mainNum.java" />
         <option value="$PROJECT_DIR$/src/exercicio/Agenda.java" />
         <option value="$PROJECT_DIR$/src/exercicio/MediaAluno.java" />
+        <option value="$PROJECT_DIR$/src/exercicio/mainNum.java" />
+        <option value="$PROJECT_DIR$/src/exercicio/AcoesDeZeroATrinta.java" />
+        <option value="$PROJECT_DIR$/src/exercicio/ComparaNumero.java" />
+        <option value="$PROJECT_DIR$/src/exercicio/NumeroDecrescente.java" />
+        <option value="$PROJECT_DIR$/src/exercicio/TrocaNumero.java" />
+        <option value="$PROJECT_DIR$/src/exercicio/MaiorNumero.java" />
       </list>
     </option>
   </component>
@@ -189,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564095893306</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Exercício MediaAluno concluído.">
+      <created>1564099363549</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564099363549</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -200,15 +207,15 @@
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24942264" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24942264" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32866043" />
+      <window_info anchor="bottom" id="Messages" weight="0.32866043" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32866043" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32866043" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39719626" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -224,49 +231,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adiciona e busca contatos na agenda com sucesso." />
     <MESSAGE value="Remove contatos na agenda com sucesso. Exercício Agenda concluído." />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove contatos na agenda com sucesso. Exercício Agenda concluído." />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/exercicio/mainNum.java</url>
-          <line>29</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Exercício MediaAluno concluído." />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício MediaAluno concluído." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/exercicio/AcoesDeZeroATrinta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercicio/NumeroDecrescente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercicio/TrocaNumero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercicio/MaiorNumero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/defora/Garfield.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -355,32 +323,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercicio/Agenda.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#1880#1881#0" expanded="true" />
-            <element signature="e#1921#1922#0" expanded="true" />
-            <element signature="e#1962#1963#0" expanded="true" />
-            <element signature="e#2053#2054#0" expanded="true" />
-            <element signature="e#2130#2131#0" expanded="true" />
-            <element signature="e#2243#2244#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercicio/mainNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/exercicio/MediaAluno.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="42" column="37" lean-forward="true" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+        <state relative-caret-position="714">
+          <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
           <folding>
             <element signature="e#602#603#0" expanded="true" />
             <element signature="e#626#627#0" expanded="true" />
@@ -388,6 +334,85 @@
             <element signature="e#1819#1820#0" expanded="true" />
             <element signature="e#1883#1884#0" expanded="true" />
             <element signature="e#1972#1973#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercicio/Agenda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#1909#1910#0" expanded="true" />
+            <element signature="e#1962#1963#0" expanded="true" />
+            <element signature="e#2013#2014#0" expanded="true" />
+            <element signature="e#2053#2054#0" expanded="true" />
+            <element signature="e#2092#2093#0" expanded="true" />
+            <element signature="e#2130#2131#0" expanded="true" />
+            <element signature="e#2189#2190#0" expanded="true" />
+            <element signature="e#2243#2244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercicio/AcoesDeZeroATrinta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercicio/mainNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercicio/TrocaNumero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercicio/NumeroDecrescente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercicio/ComparaNumero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercicio/MaiorNumero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="61" lean-forward="true" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+          <folding>
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
           </folding>
         </state>
       </provider>

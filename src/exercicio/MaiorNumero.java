@@ -1,10 +1,31 @@
 package exercicio;
 
 public class MaiorNumero {
+	private Integer numero1;
+	private Integer numero2;
+
 	//Esse método imprime o maior número entre os dois do parâmetro
-	public void maiorNumero(Integer numero1, Integer numero2) {
-		Integer maior = numero2;
-		if(numero1 > numero2) maior = numero1;
-		System.out.println("O maior número é: " + String.valueOf(maior));		
+	public void maiorNumero(Integer numeroA, Integer numeroB) {
+		setNumero1(numeroA);
+		setNumero2(numeroB);
+		Integer maior = getNumero2();
+		if(getNumero1() > getNumero2()) maior = getNumero1();
+		System.out.println("O maior número é: " + maior);
+	}
+
+	public Integer getNumero1() {
+		return this.numero1;
+	}
+
+	public void setNumero1(Integer numero1) {
+		this.numero1 = numero1;
+	}
+
+	public Integer getNumero2() {
+		return this.numero2;
+	}
+
+	public void setNumero2(Integer numero2) {
+		this.numero2 = numero2;
 	}
 }
