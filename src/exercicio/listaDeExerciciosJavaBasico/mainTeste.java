@@ -19,6 +19,9 @@ public class mainTeste {
             SalarioMinimo salarioMinimo = new SalarioMinimo();
             salarioMinimo.quantoSMUsuario((float) 7345.77);
 
+            Numero numero = new Numero();
+            numero.imprimeNumero(5);
+
         }catch (Exception e) {
             e.printStackTrace();
         }
