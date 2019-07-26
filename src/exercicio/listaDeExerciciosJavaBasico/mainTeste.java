@@ -16,6 +16,9 @@ public class mainTeste {
             valorAPagar.calculaValorTotal(1,2,3,4,
                     5,6,7);
 
+            SalarioMinimo salarioMinimo = new SalarioMinimo();
+            salarioMinimo.quantoSMUsuario((float) 7345.77);
+
         }catch (Exception e) {
             e.printStackTrace();
         }
