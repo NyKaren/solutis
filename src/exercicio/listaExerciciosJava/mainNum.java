@@ -1,4 +1,4 @@
-package exercicio;
+package exercicio.listaExerciciosJava;
 
 public class mainNum {
 	public static void main(String[] args) {

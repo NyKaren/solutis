@@ -1,4 +1,4 @@
-package exercicio;
+package exercicio.listaExerciciosJava;
 
 public class MaiorNumero {
 	private Integer numero1;

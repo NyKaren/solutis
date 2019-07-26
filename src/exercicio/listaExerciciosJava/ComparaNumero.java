@@ -1,4 +1,4 @@
-package exercicio;
+package exercicio.listaExerciciosJava;
 
 public class ComparaNumero {
 	private Integer numero1;

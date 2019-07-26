@@ -1,4 +1,4 @@
-package exercicio;
+package exercicio.listaExerciciosJava;
 
 public class AcoesDeZeroATrinta {
 	private int soma = 0;
