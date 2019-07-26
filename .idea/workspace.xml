@@ -2,28 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78599980-6745-4974-b69c-0fbbd84696e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio/listaDeExerciciosJavaBasico/Calculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio/listaDeExerciciosJavaBasico/mainTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio/listaDeExerciciosJavaBasico/ImprimeNumeros.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solutis12/exercicio/AcoesDeZeroATrinta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solutis12/exercicio/Agenda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solutis12/exercicio/ComparaNumero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solutis12/exercicio/Contato.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solutis12/exercicio/MaiorNumero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solutis12/exercicio/MediaAluno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solutis12/exercicio/NumeroDecrescente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solutis12/exercicio/TrocaNumero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/solutis12/exercicio/mainNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio/AcoesDeZeroATrinta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio/listaExerciciosJava/AcoesDeZeroATrinta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio/Agenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio/listaExerciciosJava/Agenda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio/ComparaNumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio/listaExerciciosJava/ComparaNumero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio/Contato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio/listaExerciciosJava/Contato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio/MaiorNumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio/listaExerciciosJava/MaiorNumero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio/MediaAluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio/listaExerciciosJava/MediaAluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio/NumeroDecrescente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio/listaExerciciosJava/NumeroDecrescente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio/TrocaNumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio/listaExerciciosJava/TrocaNumero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio/mainNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio/listaExerciciosJava/mainNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solutis12/exercicio/listaDeExerciciosJavaBasico/Calculo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/solutis12/exercicio/listaDeExerciciosJavaBasico/Calculo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/solutis12/exercicio/listaDeExerciciosJavaBasico/mainTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/solutis12/exercicio/listaDeExerciciosJavaBasico/mainTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio/listaDeExerciciosJavaBasico/mainTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio/listaDeExerciciosJavaBasico/mainTeste.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/exercicio/listaDeExerciciosJavaBasico/Calculo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+            <state relative-caret-position="255">
+              <caret line="30" column="87" selection-start-line="29" selection-start-column="31" selection-end-line="30" selection-end-column="87" />
               <folding>
                 <element signature="e#1345#1346#0" expanded="true" />
                 <element signature="e#1434#1435#0" expanded="true" />
@@ -52,6 +35,33 @@
                 <element signature="e#1756#1757#0" expanded="true" />
                 <element signature="e#1840#1841#0" expanded="true" />
                 <element signature="e#1953#1954#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/exercicio/listaDeExerciciosJavaBasico/ImprimeNumeros.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="28" />
+              <folding>
+                <element signature="e#913#914#0" expanded="true" />
+                <element signature="e#951#952#0" expanded="true" />
+                <element signature="e#1012#1013#0" expanded="true" />
+                <element signature="e#1066#1067#0" expanded="true" />
+                <element signature="e#1097#1098#0" expanded="true" />
+                <element signature="e#1125#1126#0" expanded="true" />
+                <element signature="e#1166#1167#0" expanded="true" />
+                <element signature="e#1200#1201#0" expanded="true" />
+                <element signature="e#1236#1237#0" expanded="true" />
+                <element signature="e#1269#1270#0" expanded="true" />
+                <element signature="e#1320#1321#0" expanded="true" />
+                <element signature="e#1364#1365#0" expanded="true" />
+                <element signature="e#1401#1402#0" expanded="true" />
+                <element signature="e#1435#1436#0" expanded="true" />
+                <element signature="e#1488#1489#0" expanded="true" />
+                <element signature="e#1534#1535#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/exercicio/listaDeExerciciosJavaBasico/mainTeste.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            <state relative-caret-position="85">
+              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -114,8 +124,9 @@
         <option value="$PROJECT_DIR$/src/exercicio/TrocaNumero.java" />
         <option value="$PROJECT_DIR$/src/exercicio/MaiorNumero.java" />
         <option value="$PROJECT_DIR$/src/exercicio/listaDeExerciciosJavaBasico/Idade.java" />
-        <option value="$PROJECT_DIR$/src/exercicio/listaDeExerciciosJavaBasico/mainTeste.java" />
         <option value="$PROJECT_DIR$/src/exercicio/listaDeExerciciosJavaBasico/Calculo.java" />
+        <option value="$PROJECT_DIR$/src/exercicio/listaDeExerciciosJavaBasico/ImprimeNumeros.java" />
+        <option value="$PROJECT_DIR$/src/exercicio/listaDeExerciciosJavaBasico/mainTeste.java" />
       </list>
     </option>
   </component>
@@ -263,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564100880401</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Segunda lista: exercício 1 concluído.">
+      <created>1564102221018</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1564102221018</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -274,7 +292,7 @@
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24942264" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24942264" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -282,7 +300,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32866043" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32866043" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32866043" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39719626" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -300,7 +318,8 @@
     <MESSAGE value="Remove contatos na agenda com sucesso. Exercício Agenda concluído." />
     <MESSAGE value="Exercício MediaAluno concluído." />
     <MESSAGE value="Primeira lista concluída e melhorada." />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeira lista concluída e melhorada." />
+    <MESSAGE value="Segunda lista: exercício 1 concluído." />
+    <option name="LAST_COMMIT_MESSAGE" value="Segunda lista: exercício 1 concluído." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/defora/Garfield.java">
@@ -452,13 +471,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercicio/listaDeExerciciosJavaBasico/mainTeste.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/exercicio/listaExerciciosJava/ComparaNumero.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -468,8 +480,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/exercicio/listaDeExerciciosJavaBasico/Calculo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+        <state relative-caret-position="255">
+          <caret line="30" column="87" selection-start-line="29" selection-start-column="31" selection-end-line="30" selection-end-column="87" />
           <folding>
             <element signature="e#1345#1346#0" expanded="true" />
             <element signature="e#1434#1435#0" expanded="true" />
@@ -480,6 +492,38 @@
             <element signature="e#1840#1841#0" expanded="true" />
             <element signature="e#1953#1954#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercicio/listaDeExerciciosJavaBasico/ImprimeNumeros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="e#913#914#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="true" />
+            <element signature="e#1012#1013#0" expanded="true" />
+            <element signature="e#1066#1067#0" expanded="true" />
+            <element signature="e#1097#1098#0" expanded="true" />
+            <element signature="e#1125#1126#0" expanded="true" />
+            <element signature="e#1166#1167#0" expanded="true" />
+            <element signature="e#1200#1201#0" expanded="true" />
+            <element signature="e#1236#1237#0" expanded="true" />
+            <element signature="e#1269#1270#0" expanded="true" />
+            <element signature="e#1320#1321#0" expanded="true" />
+            <element signature="e#1364#1365#0" expanded="true" />
+            <element signature="e#1401#1402#0" expanded="true" />
+            <element signature="e#1435#1436#0" expanded="true" />
+            <element signature="e#1488#1489#0" expanded="true" />
+            <element signature="e#1534#1535#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercicio/listaDeExerciciosJavaBasico/mainTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
         </state>
       </provider>
     </entry>
