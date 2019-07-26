@@ -9,6 +9,9 @@ public class mainTeste {
             ImprimeNumeros imprime = new ImprimeNumeros();
             imprime.imprimeMedia();
 
+            Saldo saldo = new Saldo();
+            saldo.reajuste(100);
+
         }catch (Exception e) {
             e.printStackTrace();
         }

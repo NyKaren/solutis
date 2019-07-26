@@ -13,8 +13,15 @@ public class ImprimeNumeros {
         this.mediaMedias = 0;
     }
 
+    public ImprimeNumeros(float mediaAritmetica, float media, float somaMedias, float mediaMedias) {
+        this.mediaAritmetica = mediaAritmetica;
+        this.media = media;
+        this.somaMedias = somaMedias;
+        this.mediaMedias = mediaMedias;
+    }
+
     /*Fazer um programa que imprima a média aritmética dos números 8,9 e 7.
-        A média dos números 4, 5 e 6. A soma das duas médias. A média das médias.*/
+            A média dos números 4, 5 e 6. A soma das duas médias. A média das médias.*/
     public void imprimeMedia() throws Exception {
         try {
             float mediaAritmetica1 = (8 + 9 + 7)/3;

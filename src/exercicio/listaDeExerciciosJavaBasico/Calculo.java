@@ -13,10 +13,17 @@ public class Calculo {
         this.totalIdadeDias = 0;
     }
 
+    public Calculo(Integer anoIdade, Integer mesIdade, Integer diaIdade, Integer totalIdadeDias) {
+        this.anoIdade = anoIdade;
+        this.mesIdade = mesIdade;
+        this.diaIdade = diaIdade;
+        this.totalIdadeDias = totalIdadeDias;
+    }
+
     /*Faça  um  algoritmo que  leia  a  idade  de  uma pessoa  expressa  em anos,  meses  e dias
-        e mostre-a expressa em dias.
-        Leve em consideração o ano com 365 dias e o mês com 30.
-        (Ex: 3 anos, 2 meses e 15 dias = 1170 dias.)*/
+            e mostre-a expressa em dias.
+            Leve em consideração o ano com 365 dias e o mês com 30.
+            (Ex: 3 anos, 2 meses e 15 dias = 1170 dias.)*/
     public void transformaIdadeEmDias(Integer anos, Integer meses, Integer dias) throws Exception {
         try {
             setAnoIdade(anos);
